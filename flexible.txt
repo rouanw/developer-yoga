@@ -1,0 +1,13 @@
+- Polyglot programming
+	- Why this makes sense at TW?
+	- Egs on clients of why generalists do well
+	- Why this makes sense for you?
+	- Practicalities -> how to learn, choosing a deeper stack
+	- What skills are common? Testing, OO.
+
+- Role flexibility
+	- Devs don't just code -> help understand/clarify requirements, test, deploy
+	- Value of broad skills in consulting
+
+- Shaking things up -> moving between projects and pair rotation. spread knowledge and reduce silos.
+
