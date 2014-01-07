@@ -7,9 +7,13 @@
 	.block{
 		float: left;
 		width: 300px;
-		height: 400px;
+		min-height: 400px;
 		padding-right: 40px;
 		text-align: center;
+	}
+
+	.border-right{
+		border-right: 1px solid #333;
 	}
 
 	.block img{
@@ -147,6 +151,35 @@ Knowing multiple languages
 * Dynamic language
 * Functional language
 * Database language
+
+---
+= data-x="2000" data-y="7000"
+
+## Useful experience
+
+<div class="block border-right">
+	<img src="csharp-logo.png"/>
+	<p class="b">
+		Static vs Dynamic
+	</p>
+	<img src="ruby-logo.png"/>
+</div>
+
+<div class="block border-right">
+	<img src="java-logo.png"/>
+	<p class="b">
+		OO vs Functional
+	</p>
+	<img src="clojure-logo.png"/>
+</div>
+
+<div class="block">
+	<img src="html5-logo.png"/>
+	<p class="b">
+		Common languages
+	</p>
+	<img src="javascript-logo.png"/>
+</div>
 
 ---
 = data-x="3000" data-y="0"
