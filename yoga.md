@@ -308,3 +308,19 @@ PM, BA, Dev, XD, DevOps, QA
 		Spread knowledge
 	</p>
 </div>
+
+---
+= data-x="7000" data-y="0"
+
+##What we'll talk about
+
+* <del>Polyglot programming</del>
+* <del>Role flexibility</del>
+* <del>Keeping it fresh</del>
+
+---
+= data-x="8000" data-y="0"
+
+##Questions
+
+![questions](question.png)
