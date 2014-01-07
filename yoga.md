@@ -283,4 +283,28 @@ PM, BA, Dev, XD, DevOps, QA
 
 ![plane](plane.png)
 
+---
+= data-x="6000" data-y="3000"
 
+##Why shake things up?
+
+<div class="block">
+	<img src="star.png"/>
+	<p>
+		Keep learning new things
+	</p>
+</div>
+
+<div class="block">
+	<img src="warning.png"/>
+	<p>
+		Different challenges
+	</p>
+</div>
+
+<div class="block">
+	<img src="book.png"/>
+	<p>
+		Spread knowledge
+	</p>
+</div>
