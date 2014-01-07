@@ -21,7 +21,7 @@
 	}
 </style>
 
-#Role Yoga
+#Developer Yoga
 ##Why being flexible helps
 
 ![Yoga](yoga.png)
@@ -72,8 +72,19 @@ Knowing multiple languages
 
 ##Why do generalists do well?
 
-* Varied experience
-* Understand core concepts
+<div class="block">
+	<img src="direction.png"/>
+	<p>
+		Varied experience
+	</p>
+</div>
+
+<div class="block">
+	<img src="target.png"/>
+	<p>
+		Understand core concepts
+	</p>
+</div>
 
 ---
 = data-x="2000" data-y="5000"
@@ -95,7 +106,7 @@ Knowing multiple languages
 ---
 = data-x="2000" data-y="6000"
 
-## If language doesn't matter, what does?
+## If the language doesn't matter, what does?
 
 <div class="block">
 	<img src="map.png"/>
@@ -179,7 +190,54 @@ PM, BA, Dev, XD, DevOps, QA
 = data-x="4000" data-y="4000"
 
 ##Consulting skills
-* understand and help solve problems
-* share your experience
-* coaching
+
+<div class="block">
+	<img src="question.png"/>
+	<p>
+		Understand and help solve problems
+	</p>
+</div>
+
+<div class="block">
+	<img src="share.png"/>
+	<p>
+		Share your experience
+	</p>
+</div>
+
+<div class="block">
+	<img src="pair.png"/>
+	<p>
+		Coach others
+	</p>
+</div>
+
+---
+= data-x="5000" data-y="0"
+
+##What we'll talk about
+
+* <del>Polyglot programming</del>
+* <del>Role flexibility</del>
+* Keeping it fresh
+
+---
+= data-x="6000" data-y="0"
+
+#Keeping it fresh
+
+---
+= data-x="6000" data-y="1000"
+
+##Pair rotation
+
+![pair](pair.png) ![rotate](rotate.png)
+
+---
+= data-x="6000" data-y="2000"
+
+##Moving projects
+
+![plane](plane.png)
+
 
