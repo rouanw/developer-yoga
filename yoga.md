@@ -77,15 +77,36 @@ Knowing multiple languages
 <!-- example -->
 
 ---
-= data-x="2000" data-y="5000"
+= data-x="2000" data-y="4000"
 
-##What does matter then?
+##Why do generalists do well?
 
-* Design experience - OO, emergent design, refactoring
-* Testing skills - TDD, functional testing
-* Understanding deployment
+* Varied experience
+* Understand core concepts
+
+<!-- example -->
 
 ---
+= data-x="2000" data-y="5000"
+
+<div class="block">
+	<img src="consultant.png"/>
+	<p>
+		Consultant: java/ruby background
+	</p>
+</div>
+
+<div class="block">
+	<img src="team.png"/>
+	<p>
+		Client team: 5-15 years .NET experience
+	</p>
+</div>
+
+---
+= data-x="2000" data-y="6000"
+
+## If language doesn't matter, what does?
 
 <div class="block">
 	<img src="map.png"/>
