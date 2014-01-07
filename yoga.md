@@ -23,6 +23,10 @@
 	.b{
 		font-weight: bold;
 	}
+
+	.big-image{
+		height: 600px;
+	}
 </style>
 
 #Developer Yoga
@@ -147,7 +151,7 @@ Knowing multiple languages
 
 ## Experience in types of languages
 
-![languages](language-sets.png)
+<img src="language-sets.png" class="big-image"/>
 
 ---
 = data-x="2000" data-y="8000"
