@@ -173,10 +173,27 @@ PM, BA, Dev, XD, DevOps, QA
 = data-x="4000" data-y="2000"
 
 ##Devs don't just code
-* understand/clarify requirements
-* facilitate
-* test
-* sales
+
+<div class="block">
+	<img src="list.png"/>
+	<p>
+		Understand/clarify requirements
+	</p>
+</div>
+
+<div class="block">
+	<img src="tick.png"/>
+	<p>
+		Test applications
+	</p>
+</div>
+
+<div class="block">
+	<img src="money.png"/>
+	<p>
+		Help with sales
+	</p>
+</div>
 
 ---
 = data-x="4000" data-y="3000"
