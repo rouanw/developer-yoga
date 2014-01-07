@@ -27,7 +27,7 @@
 ![Yoga](yoga.png)
 
 ---
-= data-x="1000"
+= data-x="1000" data-y="0"
 
 ##What we'll talk about
 
@@ -36,7 +36,7 @@
 * Keeping it fresh
 
 ---
-= data-x="2000"
+= data-x="2000" data-y="0"
 
 #Polyglot programming
 
@@ -66,16 +66,6 @@ Knowing multiple languages
 * Client constraints
 
 ![Tool](knife.png)
-
----
-= data-x="2000" data-y="4000"
-
-##Why do generalists do well?
-
-* Varied experience
-* Understand core concepts
-
-<!-- example -->
 
 ---
 = data-x="2000" data-y="4000"
@@ -133,7 +123,7 @@ Knowing multiple languages
 		Deployment
 	</p>
 	<p>
-		Config, scripting, provisioning
+		Configuration, automation
 	</p>
 </div>
 
@@ -147,9 +137,49 @@ Knowing multiple languages
 * Functional language
 * Database language
 
+---
+= data-x="3000" data-y="0"
 
+##What we'll talk about
 
+* <del>Polyglot programming</del>
+* Role flexibility
+* Keeping it fresh
 
+---
+= data-x="4000" data-y="0"
 
+#Role flexibility
 
+---
+= data-x="4000" data-y="1000"
+
+##What roles are there?
+
+PM, BA, Dev, XD, DevOps, QA
+
+---
+= data-x="4000" data-y="2000"
+
+##Devs don't just code
+* understand/clarify requirements
+* facilitate
+* test
+* sales
+
+---
+= data-x="4000" data-y="3000"
+
+##Examples
+* Developer helping QAs with testing backlog
+* XD helping developers with some front end development
+* Developer helping BAs break down user stories
+
+---
+= data-x="4000" data-y="4000"
+
+##Consulting skills
+* understand and help solve problems
+* share your experience
+* coaching
 
