@@ -230,6 +230,32 @@ PM, BA, Dev, XD, DevOps, QA
 </div>
 
 ---
+= data-x="4000" data-y="5000"
+
+##Why do more than code?
+
+<div class="block">
+	<img src="cracker.svg"/>
+	<p>
+		Move faster as a team
+	</p>
+</div>
+
+<div class="block">
+	<img src="box.png"/>
+	<p>
+		Creativity
+	</p>
+</div>
+
+<div class="block">
+	<img src="team.png"/>
+	<p>
+		People problems are harder to solve than technical problems
+	</p>
+</div>
+
+---
 = data-x="5000" data-y="0"
 
 ##What we'll talk about
