@@ -145,40 +145,26 @@ Knowing multiple languages
 ---
 = data-x="2000" data-y="7000"
 
-## Useful experience
+## Experience in types of languages
 
-* Static language
-* Dynamic language
-* Functional language
-* Database language
+![languages](language-sets.png)
 
 ---
-= data-x="2000" data-y="7000"
+= data-x="2000" data-y="8000"
 
-## Useful experience
-
-<div class="block border-right">
-	<img src="csharp-logo.png"/>
-	<p class="b">
-		Static vs Dynamic
-	</p>
-	<img src="ruby-logo.png"/>
-</div>
-
-<div class="block border-right">
-	<img src="java-logo.png"/>
-	<p class="b">
-		OO vs Functional
-	</p>
-	<img src="clojure-logo.png"/>
-</div>
+## Pervasive languages
 
 <div class="block">
 	<img src="html5-logo.png"/>
-	<p class="b">
-		Common languages
-	</p>
+	<img src="css3-logo.png"/>
+</div>
+
+<div class="block">
 	<img src="javascript-logo.png"/>
+</div>
+
+<div class="block">
+	<h1>SQL</h1>
 </div>
 
 ---
