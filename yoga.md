@@ -62,6 +62,7 @@ Knowing multiple languages
 
 * Consultants - we help solve a variety of problems
 * Use the best tool for the job
+* Different tools on the same project
 * Client constraints
 
 ![Tool](knife.png)
@@ -83,8 +84,6 @@ Knowing multiple languages
 
 * Varied experience
 * Understand core concepts
-
-<!-- example -->
 
 ---
 = data-x="2000" data-y="5000"
@@ -139,8 +138,14 @@ Knowing multiple languages
 </div>
 
 ---
+= data-x="2000" data-y="7000"
 
+## Useful experience
 
+* Static language
+* Dynamic language
+* Functional language
+* Database language
 
 
 
