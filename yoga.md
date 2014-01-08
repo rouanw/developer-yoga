@@ -1,7 +1,8 @@
 <style>
 	img{
-		height: 400px;
+		max-height: 400px;
 		margin: 20px;
+		float: left;
 	}
 
 	.block{
@@ -10,10 +11,6 @@
 		min-height: 400px;
 		padding-right: 40px;
 		text-align: center;
-	}
-
-	.border-right{
-		border-right: 1px solid #333;
 	}
 
 	.block img{
@@ -27,12 +24,33 @@
 	.big-image{
 		height: 600px;
 	}
+
+	.corner-box{
+		text-align: right;
+		position: fixed;
+		right: 0;
+		bottom: 0;
+		background-color: rgb(225,225,225);
+		padding: 20px;
+		border-radius: 15px;
+		border: 1px solid rgb(200,200,200);
+	}
+
+	.corner-box img{
+		height: 50px;
+	}
 </style>
 
 #Developer Yoga
 ##Why being flexible helps
 
 ![Yoga](yoga.png)
+
+<div class="corner-box">
+	<p><a href="http://www.thoughtworks.com" ><img src="tw-logo.png"/></a></p>
+	<p>Rouan Wilsenach</p>
+	<p><a href="https://twitter.com/rouanw">@rouanw</a></p>
+</div>
 
 ---
 = data-x="1000" data-y="0"
@@ -341,9 +359,3 @@ PM, BA, Dev, XD, DevOps, QA
 * <del>Role flexibility</del>
 * <del>Keeping it fresh</del>
 
----
-= data-x="8000" data-y="0"
-
-##Questions
-
-![questions](question.png)
